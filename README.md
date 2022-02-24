@@ -13,6 +13,7 @@ bash kkbench2.sh | tee log.txt
 另外，也可以透過附加參數指定測試項目，舉例來說：
 ```
 -info：系統資訊
+-i：前置安裝運行
 -dd：硬碟DD測試
 -fio：硬碟fio測試
 -spnet：speedtest.net測試
